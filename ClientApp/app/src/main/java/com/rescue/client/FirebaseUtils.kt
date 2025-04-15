@@ -1,1 +1,0 @@
-// Firebase helper functions placeholder
